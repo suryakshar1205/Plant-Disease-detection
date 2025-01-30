@@ -6,12 +6,10 @@ This project is a **Plant Disease Detection System** that uses a **Convolutional
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Model Training](#model-training)
 - [Dataset](#dataset)
 - [Technologies](#technologies)
-- [License](#license)
 
 ## Overview
 
