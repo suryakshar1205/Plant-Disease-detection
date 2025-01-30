@@ -27,4 +27,5 @@ This project leverages deep learning for classifying plant diseases from images.
 - **Disease Recognition**: Upload an image of a plant leaf, and the model predicts the disease.
 - **Live Prediction**: Predict the disease of the plant in real-time using the uploaded image.
 - **Accuracy Visualization**: Shows the accuracy of the trained model using training and validation data.
-
+## Dataset
+-The dataset used for training the model is available on Kaggle under the name 'New Plant Diseases Dataset' by Samir Bhattarai. 
